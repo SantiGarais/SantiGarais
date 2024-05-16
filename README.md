@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Garais</h1>
-<h3 align="center">I'm studying a bachelor's degree in computer scienc📖</h3>
+<h3 align="center">I'm studying a bachelor's degree in computer science📖</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
